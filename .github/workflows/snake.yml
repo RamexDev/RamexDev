@@ -5,7 +5,10 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - main # change to "master" if that's this repo's default branch
+      - main
+
+permissions:
+  contents: write
 
 jobs:
   generate:
