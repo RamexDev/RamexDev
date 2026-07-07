@@ -107,9 +107,7 @@ A few categories I keep coming back to:
 
 <br>
 
-## 🐍 Contribution Snake
-
-Watch the snake consume your contributions! This updates daily with your activity.
+## 🐍 Contribution
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RamexDev/RamexDev/output/github-snake-dark.svg" />
