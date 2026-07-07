@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:22D3EE&height=200&section=header&text=Hi%20There,%20I'm%20Ramex%20👋&fontSize=38&fontColor=FFFFFF&fontAlignY=36&fontFamily=JetBrains%20Mono&animation=fadeIn&desc=Full-Stack%20Developer%20-%20Django%20-%20React%20-%20AI%20Builder&descSize=16&descAlignY=58" width="100%" alt="Ramadan (Ramex) — Full-Stack Developer, Django and React Enthusiast, AI Builder" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:22D3EE&height=200&section=header&text=Hi%20There,%20I'm%20Ramex%20👋&fontSize=38&fontColor=FFFFFF&fontAlignY=36&font=JetBrains" width="100%" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=C4B5FD&center=true&width=460&lines=Full-Stack+Developer;Django+and+DRF+Enthusiast;React+and+JavaScript+Dev;AI+and+Automation+Builder;Open+to+Freelance+Work" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=6D28D9&center=true&width=460&lines=Full-Stack+Developer;Django+and+DRF+Enthusiast;React+and+JavaScript+Dev;AI+and+Automation+Builder;Open+to+Freelance+Work" />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=6D28D9&center=true&width=460&lines=Full-Stack+Developer;Django+and+DRF+Enthusiast;React+and+JavaScript+Dev;AI+and+Automation+Builder;Open+to+Freelance+Work" alt="Typing SVG" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=C4B5FD&center=true&width=460&lines=Full-Stack+Developer;Django+and+DRF+Enthusiast;React+and+JavaScript+Lover;Always+Building+Something" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=6D28D9&center=true&width=460&lines=Full-Stack+Developer;Django+and+DRF+Enthusiast;React+and+JavaScript+Lover;Always+Building+Something" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=6D28D9&center=true&width=460&lines=Full-Stack+Developer;Django+and+DRF+Enthusiast;React+and+JavaScript+Lover;Always+Building+Something" alt="Typing animation" />
 </picture>
 
 <br>
@@ -86,14 +86,14 @@ A few categories I keep coming back to:
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=RamexDev&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=22D3EE&text_color=C9D1D9" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=RamexDev&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=0E7490&text_color=C4B5FD" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=RamexDev&show_icons=true&hide_border=true&bg_color=00000000&title_color=7C3AED&icon_color=0E7490&text_color=24292F" />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=RamexDev&show_icons=true&hide_border=true&bg_color=00000000&title_color=7C3AED&icon_color=0E7490&text_color=24292F" alt="Ramex's GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=RamexDev&show_icons=true&hide_border=true&bg_color=00000000&title_color=7C3AED&icon_color=0E7490&text_color=24292F" alt="GitHub Stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RamexDev&layout=compact&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=C9D1D9" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RamexDev&layout=compact&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=C4B5FD" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RamexDev&layout=compact&hide_border=true&bg_color=00000000&title_color=7C3AED&text_color=24292F" />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RamexDev&layout=compact&hide_border=true&bg_color=00000000&title_color=7C3AED&text_color=24292F" alt="Top Languages" width="48%" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RamexDev&layout=compact&hide_border=true&bg_color=00000000&title_color=7C3AED&text_color=24292F" alt="Top Languages" />
   </picture>
 </p>
 
@@ -104,6 +104,20 @@ A few categories I keep coming back to:
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=RamexDev&theme=github&hide_border=true&bg_color=00000000&area=true" alt="Activity Graph" width="95%" />
   </picture>
 </p>
+
+<br>
+
+## 🐍 Contribution Snake
+
+Watch the snake consume your contributions! This updates daily with your activity.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RamexDev/RamexDev/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RamexDev/RamexDev/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/RamexDev/RamexDev/output/github-snake.svg" alt="Snake animation" width="100%" />
+</picture>
+
+<br>
 
 <!--
   ⚠️ RELIABILITY NOTE (for future-you — only visible in raw source):
@@ -130,15 +144,13 @@ A few categories I keep coming back to:
   • Streak stats (streak-stats.demolab.com)       → consistently timing out / flaky
 -->
 
-<br>
-
 <details>
-<summary>🐍 Bonus: animated contribution snake (2-minute setup)</summary>
+<summary>📖 Snake Animation Setup (if you want to replicate this)</summary>
 <br>
 
-This turns your contribution graph into a snake that "eats" your commits. It needs a small GitHub Actions workflow in this repository to generate the SVG — everything above works with zero setup, this one's optional.
+This turns your contribution graph into a snake that "eats" your commits. It needs a small GitHub Actions workflow in this repository to generate the SVG — everything above works with zero setup.
 
-**1.** Create `.github/workflows/snake.yml` in this repository with:
+**1.** Create `.github/workflows/snake.yml` in your repository with:
 
 ```yaml
 name: Generate Snake Animation
@@ -149,6 +161,9 @@ on:
   push:
     branches:
       - main # change to "master" if that's this repo's default branch
+
+permissions:
+  contents: write
 
 jobs:
   generate:
@@ -171,17 +186,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-**2.** Run it once from the **Actions** tab (or wait for the daily schedule), then add this where you'd like the snake to appear:
+**2.** Run it once from the **Actions** tab (or wait for the daily schedule), then add the display section (already visible above).
 
-```markdown
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RamexDev/RamexDev/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RamexDev/RamexDev/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/RamexDev/RamexDev/output/github-snake.svg" alt="Snake animation" width="100%" />
-</picture>
-```
-
-The snake SVGs will be auto-refreshed daily and stored on the `output` branch of this repository.
+The snake SVGs will be auto-refreshed daily and stored on the `output` branch of your repository.
 
 </details>
 
