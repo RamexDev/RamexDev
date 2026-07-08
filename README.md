@@ -78,8 +78,6 @@ A few categories I keep coming back to:
 - ⚡ **Modern frontends** — fast, responsive interfaces built with React
 - 📝 **CRUD applications** — end-to-end full-stack builds
 
-> 💡 Pin your best repos from your GitHub profile settings and they'll display automatically below this README — no manual upkeep required.
-
 <br>
 
 ## 📈 GitHub Stats
